@@ -56,5 +56,5 @@ Poorly written characters. Cleaning the dataset would result in a significant pe
 5. Create a new Pull Request
 
 ## Acknowledgements
-I'd like to thank the researchers for providing the dataset.
+I'd like to thank the researchers for providing the dataset:
 Ahmed El-Sawy, Mohamed Loey, Hazem EL-Bakry, Arabic Handwritten Characters Recognition using Convolutional Neural Network, WSEAS, 2017
