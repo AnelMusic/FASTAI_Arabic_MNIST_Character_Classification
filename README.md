@@ -10,7 +10,8 @@ In this notebook, we describe the entire process from data preparation/preproces
 
 ## Dataset
 The Dataset contains 16800 images of handwritten characters from the Arabic alphabet. Each image has the size of 32x32 pixel. 
-The training set (13440 images, 490 images per character) and the validation set (3360 images, 120 images per character) are already predefined.
+The training set (13440 images, 490 images per character) and the validation set (3360 images, 120 images per character) are already predefined.<br>
+
 ![alt text](https://raw.githubusercontent.com/AnelMusic/Arabic_MNIST_Character_Classification/master/dataset_arabic_chars.png)
 
 
