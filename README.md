@@ -20,7 +20,7 @@ The training set (13440 images, 490 images per character) and the validation set
 Resnet18 
 
 ## Results
-By using data augmentation, transfer learning and fine tuning, our model has reached a classification accuracy of 97% after only XX epochs. This result could be further improved by a little bit of additional effort. The first step would be to clean up the data set. Sometimes letters are so badly written that even humans might disagree about the classification.
+By using data augmentation, transfer learning and fine tuning, our model has reached a classification accuracy of 97% after only 22 epochs. This result could be further improved by a little bit of additional effort. The first step would be to clean up the data set. Some letters are so poorly written that even humans might disagree about the classification.
 
 ## Installation Pytorch and Fastai
 
