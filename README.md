@@ -1,5 +1,7 @@
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 
+Medium article can be found here: https://medium.com/@anelmusic13/fastai-v2-an-end-to-end-deep-learning-tutorial-for-arabic-character-recognition-afd42aa218c8
+
 # Arabic_MNIST_Character_Classification
 ## Objective
 In the well studied MNIST dataset the challenge was to recognize handwritten characters. Due to the rapid progress in machine learning, it is now possible to solve this task with an accuracy of almost 100%. This has inspired a research team (see Acknowledgements) to tackle the recognition of Arabic letters. The Arabic alphabet has 28 characters. Depending on where the letter is in the word, the spelling changes. 
