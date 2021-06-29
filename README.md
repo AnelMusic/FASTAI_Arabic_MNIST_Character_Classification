@@ -52,7 +52,7 @@ Poorly written characters. Cleaning the dataset would result in a significant pe
 
 ## Contributing
 
-1. Fork it (<https://github.com/AnelMusic/Arabic_MNIST_Character_Classification//fork>)
+1. Fork it (<https://github.com/AnelMusic/FASTAIArabic_MNIST_Character_Classification//fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
